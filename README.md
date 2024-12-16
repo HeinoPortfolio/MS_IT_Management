@@ -14,7 +14,7 @@ This directory holds the work that was completed during my master's capstone in 
 
 |**File Name**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
-|Matthew Heino C928 Task 2 Email.pdf| Business email | An email to setup a meeting to discuss a current situation with a CRM. This file does not involve the other fiels that are included in this directory. It was inlcuded as an example  
+|Matthew Heino C928 Task 2 Email.pdf| Business email | An email to setup a meeting to discuss a current situation with a CRM. This file does not involve the other files that are included in this directory. It was included as an example. 
 |Matthew Heino Task 2 .pdf|??? | ???
 |Matthew Heino Task 3.pdf| ??? | ????
 
