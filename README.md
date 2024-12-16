@@ -6,6 +6,8 @@ This directory holds the work that was completed during my master's capstone in 
 **Note:** This is an extension of the software solution that was created during my bachelor's in software development.  During the bachelor's capstone I created the following project:
 - Android university term scheduler.  Follow this link to be taken to the project and associated files. [Click Here!](https://github.com/HeinoPortfolio/AndroidProject)
 
+**Note 2:** This is not all the work that was completed during the degree.  Some work is not able to be displayed because of school restrictions on public availability of course content.
+
 # Competencies
 - Analyze a real-world software or systems problem.
 - Draft an executive email
