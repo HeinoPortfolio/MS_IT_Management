@@ -4,7 +4,7 @@
 This directory holds the work that was completed during my master's capstone in information technology management. This work comprised submitting a proposal for a software solution that addressed a real-world problem.  The solution proposed was to create a system that updated a university's  outdated software system for the students.
 
 **Note:** This is an extension of the software solution that was created during my bachelor's in software development.  During the bachelor's capstone I created the following project:
-- Android univeristy term scheduler.  Follow this link to be taken to the project and assocaited files. [Click Here!](https://github.com/HeinoPortfolio/AndroidProject)
+- Android university term scheduler.  Follow this link to be taken to the project and associated files. [Click Here!](https://github.com/HeinoPortfolio/AndroidProject)
 
 # Competencies
 - Analyze a real-world software or systems problem.
